@@ -1,1 +1,1 @@
-hi {% link pages/page.md %}
+hi {% site.url %}{% link pages/page.md %}
